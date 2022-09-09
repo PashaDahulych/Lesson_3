@@ -1,0 +1,49 @@
+.cross {
+   color: green;
+}
+.nav{
+   color: crimson;
+}
+
+.text p{
+   color: aquamarine;
+}
+.content{
+   color: red;
+}
+.lesson > p{
+   color: darksalmon;
+}
+.text li{
+   color: blue;
+}
+.navi.navi-second{
+   color: darkorange;
+}
+.text{
+   color: chocolate;
+}
+.second{
+   color: brown;
+}
+.second p{
+   color: rgb(166, 0, 255);
+}
+.fourth-div{
+   color: burlywood;
+}
+.fourth-div > p{
+   color: rgb(11, 224, 11);
+}
+.woman{
+   color: rgb(221, 18, 18);
+}
+.woman > ul{
+   color: goldenrod;
+}
+.woman > h3{
+   color: black;
+}
+.woman > p{
+   color: firebrick;
+}
